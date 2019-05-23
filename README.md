@@ -28,4 +28,7 @@ Critério definido pelo RH
 ## Submissão
 Enviar link do repositorio público para andressa.nunes@concil.com.br com titulo: [SUBMISSÃO] Desafio Front-end. 
 
+## Dica
+Não se limitar ao descrito no teste, pode deixar a criatividade fluir.
+
 ## Boa sorte 🚀
