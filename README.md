@@ -4,9 +4,9 @@
 Criar uma single page aplication em React que retorne os Heróis da Marvel via API da https://developer.marvel.com/
 
 ## Requisitos
-1 - Em uma onepage em React listar em cards os heróis da API;
-3 - Fazer paginação dos cards na tela principal;
-4 - Ao clicar no herói, irá para uma página interna retornando o descritivo de cada herói.
+- Em uma onepage em React listar em cards os heróis da API
+- Fazer paginação dos cards na tela principal
+- Ao clicar no herói, irá para uma página interna retornando o descritivo de cada herói.
 
 ## Estilos
 se aproximar ao máximo do styleguide do site da marvel https://www.marvel.com/
